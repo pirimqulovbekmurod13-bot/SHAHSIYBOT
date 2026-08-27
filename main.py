@@ -11,7 +11,7 @@ from aiogram.types import (
     ReplyKeyboardMarkup, KeyboardButton, CallbackQuery
 )
 
-BOT_TOKEN = "8828504975:AAGtd0G55eun9WOAn0ay5bb77bY-cjUuEBA"
+BOT_TOKEN = "8828504975:AAHBA8yMnuAHEA1XMsDBxYz1Vu6ptaZDDNE"
 SUPER_ADMIN_ID = 8520817573  # Asosiy egasi ID'si
 
 bot = Bot(token=BOT_TOKEN)
